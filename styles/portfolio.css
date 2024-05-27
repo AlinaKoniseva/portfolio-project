@@ -57,3 +57,7 @@ p {
   padding: 18px 30px;
   margin-top: 50px;
 }
+
+.photo-portfolio {
+  background-color: var(--secondary-color);
+}
