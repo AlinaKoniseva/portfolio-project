@@ -61,7 +61,10 @@ p {
 .photo-portfolio {
   background-color: var(--secondary-color);
 }
-
+.camera_model {
+  background: black;
+  color: whitesmoke;
+}
 @media (max-width: 960px) {
   h1 {
     font-size: 48px;
