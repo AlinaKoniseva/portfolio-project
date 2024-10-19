@@ -55,7 +55,7 @@ p {
   font-weight: bold;
   line-height: 27px;
   padding: 18px 30px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .photo-portfolio {
@@ -69,4 +69,48 @@ p {
   h1 {
     font-size: 48px;
   }
+}
+
+.about-me h2 {
+  color: #F65282;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.about-me h1 {
+  text-align: left;
+  font-size: 64px;
+}
+
+.about-me p {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: lighter;
+  text-align: left;
+}
+
+.about-me i {
+  margin-right: 20px;
+}
+
+.camera_model {
+  height: 30px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.button-contact {
+text-align: left;
+}
+
+.social-icons {
+  text-align: left;
+}
+
+.rafa-photobw {
+  height: auto;
+  width: auto;
 }
