@@ -194,3 +194,8 @@ footer {
 .facebook, .linkedin, .instagram {
   padding: 15px;
 }
+
+.social-icons a {
+  text-decoration: none;
+  color: inherit;
+}
