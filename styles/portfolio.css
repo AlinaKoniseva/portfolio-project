@@ -25,6 +25,10 @@ p {
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
