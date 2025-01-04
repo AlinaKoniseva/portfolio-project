@@ -129,3 +129,68 @@ text-align: left;
 .gallery-body {
   background-color: rgb(25, 28, 31)
 }
+
+.contact-body {
+  background-color: var(--secondary-color);
+}
+
+.contact-details {
+  text-align: center;
+  margin: 100px;
+}
+
+.contact-details h3 {
+  color: #F65282;
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+
+.contact-details p {
+  color: whitesmoke;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.get-in-touch {
+  text-align: center;
+  font-weight: 400;
+}
+
+
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.content-container {
+  flex: 1;
+}
+footer {
+  background-color: #282323;
+  color: whitesmoke;
+  font-family: var(--default-font-family);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+}
+.footer-name {
+  font-family: var(--default-font-family);
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.footer-rights {
+  font-family: var(--default-font-family);
+  font-size: 14px;
+  padding-top: 15px;
+}
+
+.facebook, .linkedin, .instagram {
+  padding: 15px;
+}
