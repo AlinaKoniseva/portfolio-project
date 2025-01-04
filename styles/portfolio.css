@@ -25,10 +25,6 @@ p {
   font-style: normal;
 }
 
-a {
-  text-decoration: none !important;
-  color: inherit !important;
-}
 
 .hero {
   background-color: var(--secondary-color);
