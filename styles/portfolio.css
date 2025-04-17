@@ -208,3 +208,11 @@ footer {
   text-decoration: none;
   color: inherit;
 }
+
+.github {
+  text-align: center;
+  font-weight: 100;
+  font-size: xx-small;
+  color: whitesmoke;
+}
+
